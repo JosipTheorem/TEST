@@ -1,2 +1,3 @@
-# Toothpick Patterns - Numberphile
-This toothpick pattern is inspired by a Numberphile video: https://www.youtube.com/watch?v=_UtCli1SgjI 
+# Calculating and visualizing popular mathematical sequences
+Repository includes following sequences:
+-Toothpick pattern (inspired by Numberphile: https://www.youtube.com/watch?v=_UtCli1SgjI)
