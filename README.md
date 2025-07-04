@@ -1,7 +1,7 @@
-# Calculating and visualizing some popular mathematical sequences
+# Calculating and visualizing some popular mathematical sequences with Python
 
 
-Repository includes following sequences:
+Repository includes the following sequences:
 
 
 -Toothpick pattern (inspired by Numberphile: https://www.youtube.com/watch?v=_UtCli1SgjI)
